@@ -57,6 +57,7 @@ The dataset contains restaurant-level data from Zomato, including:
 ---
 
 ## 📸 Dashboard Preview
+<img width="1373" height="770" alt="image" src="https://github.com/user-attachments/assets/1681140f-2914-48c1-97a8-0df38889b618" />
 
 
 
